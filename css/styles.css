@@ -1,0 +1,42 @@
+:root {
+  --roxo: rgba(84, 41, 255, 1);
+  --roxo-claro: rgba(203, 204, 232, 1);
+  --cinza-claro: rgba(102, 112, 133, 1);
+  --cinza-escuro: rgba(52, 64, 84, 1);
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  font-family: "Inter";
+  font-size: 12px;
+  text-align: center;
+
+  background-color: #fcfdff;
+  
+  
+  
+  text-decoration: none;
+}
+header{
+    height
+}
+.page {
+    display:flex;
+    align-items: center;
+ flex:1;
+  max-width: 100%;
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  
+}
+.imagem{
+    background-color: rgba(84, 41, 255, 1) ;
+    z-index: 0;
+}
+.imagem img{
+    z-index: 5;
+}
